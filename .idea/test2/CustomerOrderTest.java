@@ -45,6 +45,8 @@ public class CustomerOrderTest {
         order.pay("Credit Card");
         assertTrue(order.isPaid());
         assertEquals(10.00, order.getTotalAmount(), 0.01);
+
+        //test branch push3
     }
 
 	// ToDo: Test inventory update when an order is placed
