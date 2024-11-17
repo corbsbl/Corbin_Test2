@@ -22,11 +22,10 @@ public class CustomerOrderTest {
     }
     
     // ToDo: Remove this test case before submission
-    @Test
-	public void test() {
-		fail("Not yet implemented");
-	}
-	
+	//coolio
+
+
+
 	// ToDo: Test placing a valid order
 	// Add items to the order, verify the number of items, and check if the total cost is calculated correctly.
     @Test
